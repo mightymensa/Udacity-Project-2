@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject"
+  },
+  {
+    "ParameterKey": "VpcCidrBlock",
+    "ParameterValue": "10.0.0.0/16"
+  }
+]
