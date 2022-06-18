@@ -60,7 +60,6 @@ Resources:
           aws s3 cp s3://my-udacity-project-2/MightyMensa-DevOpsProject1 .
           unzip -o udacity.zip
       ImageId: ami-0df32f8302dfe67df
-      KeyName: devops
       SecurityGroups:
         - Ref: ServerSecGroup
       InstanceType: t2.micro
